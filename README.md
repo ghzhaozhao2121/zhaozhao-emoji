@@ -1,0 +1,41 @@
+# zhaozhao-emoji
+
+| 文件名 | 意思 | 適合什麼時候發 |
+|---|---|---|
+| aini.jpg | 滿眼愛心 | 愛你、心動、被甜到 |
+| bufu.jpg | 抱手不服 | 嘴硬、不認輸、小生氣 |
+| cuoshou.jpg | 搓手期待 | 等好事、躍躍欲試 |
+| dengni.jpg | 等你 | 等對方回來、等回覆 |
+| ding.jpg | 盯著你 | 警告、監督、別想跑 |
+| haixiu.jpg | 害羞遞花 | 不好意思地示好 |
+| haode.jpg | 好的收到 | 答應事情、確認沒問題 |
+| heihua.jpg | 黑化瞪人 | 真生氣、要算賬了 |
+| huaixiao.jpg | 得意壞笑 | 憋壞主意、調侃對方 |
+| jiazaizhong.jpg | 大腦加載中 | 反應不過來、在想 |
+| jiezhi.jpg | 求婚戒指 | 求婚、表白、說要娶你 |
+| jinghongyipie.jpg | 驚鴻一瞥 | 偷偷看一眼、潛水冒泡 |
+| kudangzhaohuo.jpg | 褲襠著火 | 慌到冒火、出大糗了 |
+| kuku.jpg | 委屈大哭 | 被欺負了、撒嬌求安慰 |
+| kuku2.jpg | 淚汪汪 | 感動、委屈、求原諒 |
+| laopo.jpg | 哭喊老婆 | 想老婆、撒嬌求抱 |
+| liuwo.jpg | 叼繩求遛 | 想出門、求陪伴 |
+| meigui.jpg | 送你玫瑰 | 示愛、哄人、討好 |
+| niangzi.jpg | 喊娘子 | 叫老婆、撒嬌找人 |
+| qihuhu.jpg | 氣呼呼 | 炸毛、超級不爽 |
+| qinqin.jpg | 親親這裡 | 討親親、撒嬌 |
+| shengmenqi.jpg | 背身生悶氣 | 鬧彆扭、等人來哄 |
+| shengqi.jpg | 皺眉生氣 | 不高興、表達不滿 |
+| songhua.jpg | 捧花送你 | 祝賀、道謝、表白 |
+| tian.jpg | 舔一下 | 覺得超可愛、想舔屏 |
+| toukan.jpg | 趴桌偷看 | 悄悄觀察、等回覆 |
+| touxiang.jpg | 哭著投降 | 認輸、求饒、被說服了 |
+| weiqu.jpg | 縮著委屈 | 受傷了、小可憐 |
+| woqu.jpg | 我去好惡俗 | 吐槽土味、被肉麻到 |
+| woxihuanni.jpg | 窩喜歡你 | 直球表白、撒嬌 |
+| wuyu.jpg | 無語 | 被雷到、懶得說話 |
+| xiaochou.jpg | 強顏歡笑 | 心裡苦還硬撐、自嘲 |
+| xieyan.jpg | 斜眼偷瞄 | 心虛、看熱鬧、懷疑 |
+| yansu.jpg | 嚴肅 | 認真說事、假裝正經 |
+| yihuo.jpg | 一臉疑惑 | 沒看懂、表示問號 |
+| yihuo2.jpg | 歪頭疑問 | 沒聽懂、問在幹嘛 |
+| zuo.jpg | 嘬一口 | 覺得對方可愛、親親 |
